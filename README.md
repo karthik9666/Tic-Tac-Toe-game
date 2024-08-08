@@ -1,3 +1,3 @@
 # Tic-Tac-Toe-game
 
-Get the Quick review : file:///c:/Users/karthik/OneDrive/Web%20Projects/tic%20tac%20toe%20game/Tic%20Tac%20Toe%20game%201/index1.html
+Get the Quick review : http://127.0.0.1:5500/index1.html
